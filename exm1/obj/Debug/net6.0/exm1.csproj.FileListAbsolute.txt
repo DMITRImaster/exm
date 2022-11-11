@@ -1,0 +1,15 @@
+C:\Users\днс\Desktop\exemples\exm1\bin\Debug\net6.0\exm1.exe
+C:\Users\днс\Desktop\exemples\exm1\bin\Debug\net6.0\exm1.deps.json
+C:\Users\днс\Desktop\exemples\exm1\bin\Debug\net6.0\exm1.runtimeconfig.json
+C:\Users\днс\Desktop\exemples\exm1\bin\Debug\net6.0\exm1.dll
+C:\Users\днс\Desktop\exemples\exm1\bin\Debug\net6.0\exm1.pdb
+C:\Users\днс\Desktop\exemples\exm1\obj\Debug\net6.0\exm1.csproj.AssemblyReference.cache
+C:\Users\днс\Desktop\exemples\exm1\obj\Debug\net6.0\exm1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\днс\Desktop\exemples\exm1\obj\Debug\net6.0\exm1.AssemblyInfoInputs.cache
+C:\Users\днс\Desktop\exemples\exm1\obj\Debug\net6.0\exm1.AssemblyInfo.cs
+C:\Users\днс\Desktop\exemples\exm1\obj\Debug\net6.0\exm1.csproj.CoreCompileInputs.cache
+C:\Users\днс\Desktop\exemples\exm1\obj\Debug\net6.0\exm1.dll
+C:\Users\днс\Desktop\exemples\exm1\obj\Debug\net6.0\refint\exm1.dll
+C:\Users\днс\Desktop\exemples\exm1\obj\Debug\net6.0\exm1.pdb
+C:\Users\днс\Desktop\exemples\exm1\obj\Debug\net6.0\exm1.genruntimeconfig.cache
+C:\Users\днс\Desktop\exemples\exm1\obj\Debug\net6.0\ref\exm1.dll
